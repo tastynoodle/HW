@@ -1,4 +1,4 @@
-### Introduction Sequence
+### Git basics
 
 #### 1.1 Introduction to Git Commits
 
@@ -47,3 +47,14 @@
 1. git reset local^
 2. git checkout pushed
 3. git revert pushed
+
+#### Screenshot
+![alt text](HW0.png)
+
+### Hooks
+
+Add the following line to .git/hooks/post-commit:
+
+ 	#!bin/bash
+ 	
+ 	open https://www.ncsu.edu
