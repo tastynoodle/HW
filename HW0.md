@@ -58,3 +58,7 @@ Add the following line to .git/hooks/post-commit:
  	#!bin/bash
  	
  	open https://www.ncsu.edu
+ 	
+### Screencast
+
+The video has been uploaded to [youtube](http://youtu.be/wdeNyPgo7zU).
